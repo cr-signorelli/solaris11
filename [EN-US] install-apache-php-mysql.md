@@ -61,13 +61,14 @@ mysqladmin -u root password pVIDzep3Xlhw4L8oU2zK
 **Type mysql in a terminal window to access the mysql> prompt. For example:**
 ```mysql
 mysql> show databases;
-Database
-information_schema 
-mysql 
-test
-3 rows in set (0.01 sec)
+  Database
+  information_schema 
+  mysql 
+  test
+  3 rows in set (0.01 sec)
+
 mysql> quit;
-Bye
+  Bye
 ```
 
 ---
