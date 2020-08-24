@@ -1,3 +1,3 @@
-# Solaris11.3 SPARC
+# Solaris 11
 
-**Tips and tricks for Solaris10-SPARC**
+**Tips and tricks for solaris11**
